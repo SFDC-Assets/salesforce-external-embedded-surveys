@@ -90,6 +90,9 @@ Once you have generated the ceritifcate and private key set up the connect up by
 
 [Apex Service Package](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t5e0000005htQAAQ)
 **NOTE** - On the Package install screen, click 'Advanced Options' and select **'Compile only the Apex in the Package'** before clicking 'Install
+
+Package code available at - https://github.com/SFDC-Assets/ac-survey-invitation-generator
+   
 # Additional Configuration Variables for the Heroku App
 
 1. **CLIENT_ID** - Consumer Key from the Connected App
